@@ -1,6 +1,6 @@
 # Trade marks
 
-"SpaceAI", "Swag" (in relation to AI training software and services) and the SpaceAI logos are trade marks of M Davis.
+"SpaceAI", "Swag" (in relation to AI training software and services) and the SpaceAI logos are trade marks of M Davis (unregistered; registration coming soon).
 
 You may use the names to refer accurately to SpaceAI's corpus and models, for example "trained on the SpaceAI Australian Corpus" or "built with SpaceAI-0.1B" as required by the SpaceAI Community Licence.
 

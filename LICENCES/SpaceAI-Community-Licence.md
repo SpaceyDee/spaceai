@@ -1,15 +1,13 @@
-# SpaceAI Community Licence, version 1.0 (DRAFT, 5 October 2026)
-
-> Draft for review by an Australian IP lawyer before publication. Placeholders are in [square brackets].
+# SpaceAI Community Licence, version 1.0 (5 October 2026)
 
 This licence covers the SpaceAI model weights and any files published with them that are marked as covered by this licence (together, the **Model**). It does not cover:
 
-- the SpaceAI source code, which is licensed under the MIT Licence; or
+- the SpaceAI source code, training software (including Swag) and tokenizer training pipeline, which are proprietary and not licensed for any use; or
 - the SpaceAI corpus, which is made available under the Creative Commons Attribution 4.0 International licence, together with the public-domain works listed in its attribution file.
 
 ## 1. Definitions
 
-- **Licensor** means M Davis (trading as SpaceAI) [ABN, if any], the creator of SpaceAI.
+- **Licensor** means Matthew James Davis (M Davis), sole trader, ABN 28 629 418 475, trading as SpaceAI, the creator of SpaceAI.
 - **Eligible User** means:
   - (a) an individual who is ordinarily resident in Australia; or
   - (b) a company, partnership, trust, government body, school, university or other organisation that is established or registered in Australia (for example, one holding an ABN or ACN), acting through its people in Australia.
@@ -71,7 +69,7 @@ To the extent permitted by law, the Licensor is not liable for any loss or damag
 
 ## 9. General
 
-- This licence is governed by the laws of [State], Australia, and the courts of that State and the Commonwealth have exclusive jurisdiction.
+- This licence is governed by the laws of Queensland, Australia, and the courts of Queensland and the Commonwealth have exclusive jurisdiction.
 - If any part of this licence is unenforceable, the rest continues to apply.
 - The Licensor may publish new versions of this licence. Copies already received stay under the version they came with, unless you choose a later version.
 - Nothing in this licence grants rights in the Licensor's names or trade marks ("SpaceAI", "Swag") beyond the attribution notice in section 4.2.

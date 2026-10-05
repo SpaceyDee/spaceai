@@ -2,7 +2,7 @@
 
 **Australian-made AI, trained only on Australian text.**
 
-SpaceAI is an independent Australian AI project founded by M Davis. Everything is built in-house in Australia:
+SpaceAI is an independent Australian AI project founded by M Davis, currently a private passion project (company coming soon). Everything is built in-house in Australia:
 - the training corpus;
 - the tokenizer;
 - the model;
@@ -62,12 +62,12 @@ Swag is proprietary to SpaceAI. It builds on published research into local-updat
 | Part | Licence |
 |---|---|
 | Corpus | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) plus public domain. See the dataset's `ATTRIBUTION.md`. |
-| Model weights (when released) | [SpaceAI Community Licence](LICENCES/SpaceAI-Community-Licence.md): Australian users only (draft) |
+| Model weights (when released) | [SpaceAI Community Licence](LICENCES/SpaceAI-Community-Licence.md): Australian users only, approved on request |
 | Training code, Swag, tokenizer training pipeline | Proprietary, not published |
 | This repository (text, roadmap, brand) | © 2026 M Davis. All rights reserved. |
 
-"SpaceAI" and "Swag" are trade marks of M Davis. See [TRADEMARKS.md](TRADEMARKS.md).
+"SpaceAI" and "Swag" are trade marks of M Davis (registration coming soon). See [TRADEMARKS.md](TRADEMARKS.md).
 
 ## Contact
 
-Partnerships, licensing and commercial enquiries: via [GitHub](https://github.com/SpaceyDee) or [Hugging Face](https://huggingface.co/MrSpaceCommander).
+Questions, collaboration and licensing: via [mrspacecadet.com.au](https://mrspacecadet.com.au), [GitHub](https://github.com/SpaceyDee) or [Hugging Face](https://huggingface.co/MrSpaceCommander).
