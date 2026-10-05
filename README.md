@@ -14,7 +14,7 @@ No third-party model weights, tokenizers or training frameworks are used.
 
 | | Status |
 |---|---|
-| **SpaceAI Australian Corpus v1** | 52,662 documents, about 466 million tokens, 100% Australian. CC BY 4.0 / public domain. [Dataset on Hugging Face](https://huggingface.co/datasets/MrSpaceCommander/spaceai-australian-corpus) |
+| **SpaceAI Australian Corpus v1** | 53,337 documents, about 484 million tokens, 100% Australian. CC BY 4.0 / public domain. [Dataset on Hugging Face](https://huggingface.co/datasets/MrSpaceCommander/spaceai-australian-corpus) |
 | **spaceai-sp32k tokenizer** | 32,768-token vocabulary trained only on Australian text. It handles Australian place names and terms natively ("Wagga Wagga", "Commonwealth"). |
 | **SpaceAI-0.1B** | 100.7M-parameter language model, training now from random initialisation on the Australian corpus. |
 | **Swag** | SpaceAI's own distributed training system (see below). |
