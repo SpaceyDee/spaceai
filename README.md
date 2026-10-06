@@ -36,25 +36,15 @@ What was kept out:
 
 Full details are in the [dataset card](https://huggingface.co/datasets/MrSpaceCommander/spaceai-australian-corpus).
 
-## Swag: training on the GPUs Australians already own
+## Swag
 
-Swag ("everything you need, carried between camps") trains one model across a mixed group of ordinary consumer GPUs on a home network. Today that's an RTX 3070, an RTX 3080 Laptop and an RTX 2060 Super, which also get used for gaming and other work.
-
-What it does:
-- **Uses mismatched hardware.** Fast and slow cards contribute in proportion to the work they actually do.
-- **Tolerates machines coming and going.** Nodes can join late, pause for other workloads, or drop out without stopping the run.
-- **Accounts for every token.** A ledger records exactly which data has been trained into the model, so nothing is lost or counted twice.
-- **Protects the best model.** The best checkpoint is always kept, and bad rounds are never saved over it.
-- **Grows mid-run.** New Australian data can be added to a running training job.
-- **Provides provenance.** Every training run can be traced back to the documents it used.
-
-Swag is proprietary to SpaceAI. It builds on published research into local-update distributed optimisation (DiLoCo, Douillard et al., 2023); the implementation and protocol are SpaceAI's own.
+Swag ("everything you need, carried between camps") is SpaceAI's own system for training one model across the ordinary consumer GPUs Australians already own. It is proprietary and not published.
 
 ## Roadmap
 
 1. **Now:** SpaceAI-0.1B trained on the corpus; public corpus v1 released.
 2. **Next:** SpaceAI-0.1B public weights for Australian users under the SpaceAI Community Licence (gated download).
-3. **Then:** Swag v0.2 (faster, compressed and authenticated updates, adaptive work per GPU). Larger SpaceAI models. Corpus v1.1 (more Year Book Australia issues, more public-domain Australian literature).
+3. **Then:** Swag v0.2. Larger SpaceAI models. Corpus v1.1 (more Year Book Australia issues, more public-domain Australian literature).
 4. **Later:** commercial SpaceAI offerings for Australian organisations.
 
 ## Licensing
